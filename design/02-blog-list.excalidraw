@@ -1,0 +1,1405 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "hermes-agent",
+  "elements": [
+    {
+      "type": "line",
+      "id": "ruling_0",
+      "x": 80,
+      "y": 150,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_1",
+      "x": 80,
+      "y": 260,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_2",
+      "x": 80,
+      "y": 370,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_3",
+      "x": 80,
+      "y": 480,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_4",
+      "x": 80,
+      "y": 590,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_5",
+      "x": 80,
+      "y": 700,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "line",
+      "id": "ruling_6",
+      "x": 80,
+      "y": 810,
+      "width": 1280,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1280,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "ellipse",
+      "id": "logo_circle",
+      "x": 100,
+      "y": 60,
+      "width": 56,
+      "height": 50,
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "logo_text",
+      "x": 168,
+      "y": 75,
+      "width": 120,
+      "height": 28,
+      "text": "ink & code",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "ink & code"
+    },
+    {
+      "type": "text",
+      "id": "logo_star",
+      "x": 124,
+      "y": 72,
+      "width": 16,
+      "height": 28,
+      "text": "*",
+      "fontSize": 24,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "originalText": "*"
+    },
+    {
+      "type": "text",
+      "id": "nav_home",
+      "x": 1000,
+      "y": 78,
+      "width": 60,
+      "height": 24,
+      "text": "home",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "home"
+    },
+    {
+      "type": "text",
+      "id": "nav_blog",
+      "x": 1070,
+      "y": 78,
+      "width": 60,
+      "height": 24,
+      "text": "blog",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "blog"
+    },
+    {
+      "type": "text",
+      "id": "nav_tags",
+      "x": 1140,
+      "y": 78,
+      "width": 60,
+      "height": 24,
+      "text": "tags",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "tags"
+    },
+    {
+      "type": "text",
+      "id": "nav_about",
+      "x": 1210,
+      "y": 78,
+      "width": 60,
+      "height": 24,
+      "text": "about",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "about"
+    },
+    {
+      "type": "line",
+      "id": "nav_underline",
+      "x": 1075,
+      "y": 108,
+      "width": 40,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          40,
+          0
+        ]
+      ],
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "page_title",
+      "x": 200,
+      "y": 200,
+      "width": 400,
+      "height": 60,
+      "text": "writing log",
+      "fontSize": 56,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "writing log"
+    },
+    {
+      "type": "text",
+      "id": "page_subtitle",
+      "x": 200,
+      "y": 270,
+      "width": 600,
+      "height": 28,
+      "text": "学到的、踩过的、值得记下来的。",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "学到的、踩过的、值得记下来的。"
+    },
+    {
+      "type": "ellipse",
+      "id": "deco_circle_1",
+      "x": 1080,
+      "y": 200,
+      "width": 60,
+      "height": 60,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 3
+    },
+    {
+      "type": "line",
+      "id": "deco_arrow_1",
+      "x": 1150,
+      "y": 230,
+      "width": 80,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          80,
+          0
+        ]
+      ],
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 3,
+      "endArrowhead": "arrow"
+    },
+    {
+      "type": "text",
+      "id": "deco_text_1",
+      "x": 1235,
+      "y": 220,
+      "width": 60,
+      "height": 24,
+      "text": "ideas",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "ideas"
+    },
+    {
+      "type": "text",
+      "id": "deco_text_2",
+      "x": 1080,
+      "y": 280,
+      "width": 200,
+      "height": 24,
+      "text": "~ in progress ~",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "~ in progress ~"
+    },
+    {
+      "type": "text",
+      "id": "filter_title",
+      "x": 100,
+      "y": 380,
+      "width": 160,
+      "height": 24,
+      "text": "filter by tag",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "filter by tag"
+    },
+    {
+      "type": "line",
+      "id": "filter_underline",
+      "x": 100,
+      "y": 410,
+      "width": 50,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          50,
+          0
+        ]
+      ],
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_0",
+      "x": 100,
+      "y": 440,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2,
+      "backgroundColor": "#1e1e1e",
+      "fillStyle": "solid"
+    },
+    {
+      "type": "line",
+      "id": "check_0",
+      "x": 103,
+      "y": 449,
+      "width": 12,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          12,
+          -4
+        ]
+      ],
+      "strokeColor": "#ffffff",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_0",
+      "x": 128,
+      "y": 437,
+      "width": 180,
+      "height": 22,
+      "text": "# vuepress",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# vuepress"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_1",
+      "x": 100,
+      "y": 476,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2,
+      "backgroundColor": "#1e1e1e",
+      "fillStyle": "solid"
+    },
+    {
+      "type": "line",
+      "id": "check_1",
+      "x": 103,
+      "y": 485,
+      "width": 12,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          12,
+          -4
+        ]
+      ],
+      "strokeColor": "#ffffff",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_1",
+      "x": 128,
+      "y": 473,
+      "width": 180,
+      "height": 22,
+      "text": "# mlops",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# mlops"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_2",
+      "x": 100,
+      "y": 512,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_2",
+      "x": 128,
+      "y": 509,
+      "width": 180,
+      "height": 22,
+      "text": "# chrome-extension",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# chrome-extension"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_3",
+      "x": 100,
+      "y": 548,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_3",
+      "x": 128,
+      "y": 545,
+      "width": 180,
+      "height": 22,
+      "text": "# tts",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# tts"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_4",
+      "x": 100,
+      "y": 584,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_4",
+      "x": 128,
+      "y": 581,
+      "width": 180,
+      "height": 22,
+      "text": "# design",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# design"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_5",
+      "x": 100,
+      "y": 620,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_5",
+      "x": 128,
+      "y": 617,
+      "width": 180,
+      "height": 22,
+      "text": "# ai",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# ai"
+    },
+    {
+      "type": "rectangle",
+      "id": "cb_6",
+      "x": 100,
+      "y": 656,
+      "width": 18,
+      "height": 18,
+      "strokeColor": "#adb5bd",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "tag_6",
+      "x": 128,
+      "y": 653,
+      "width": 180,
+      "height": 22,
+      "text": "# life",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "# life"
+    },
+    {
+      "type": "line",
+      "id": "side_sep",
+      "x": 100,
+      "y": 730,
+      "width": 200,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ]
+      ],
+      "strokeColor": "#dee2e6",
+      "strokeWidth": 1,
+      "roughness": 1
+    },
+    {
+      "type": "text",
+      "id": "archive_title",
+      "x": 100,
+      "y": 750,
+      "width": 200,
+      "height": 24,
+      "text": "archive",
+      "fontSize": 18,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "archive"
+    },
+    {
+      "type": "text",
+      "id": "arc_0",
+      "x": 100,
+      "y": 790,
+      "width": 200,
+      "height": 20,
+      "text": "2026 · 12 posts",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "2026 · 12 posts"
+    },
+    {
+      "type": "text",
+      "id": "arc_1",
+      "x": 100,
+      "y": 816,
+      "width": 200,
+      "height": 20,
+      "text": "2025 · 47 posts",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "2025 · 47 posts"
+    },
+    {
+      "type": "text",
+      "id": "arc_2",
+      "x": 100,
+      "y": 842,
+      "width": 200,
+      "height": 20,
+      "text": "2024 · 31 posts",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "2024 · 31 posts"
+    },
+    {
+      "type": "text",
+      "id": "post_date_0",
+      "x": 360,
+      "y": 380,
+      "width": 80,
+      "height": 36,
+      "text": "Jun 14",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "Jun 14"
+    },
+    {
+      "type": "text",
+      "id": "post_title_0",
+      "x": 450,
+      "y": 375,
+      "width": 700,
+      "height": 28,
+      "text": "用 VuePress 搭一个手绘风博客",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "用 VuePress 搭一个手绘风博客"
+    },
+    {
+      "type": "text",
+      "id": "post_excerpt_0",
+      "x": 450,
+      "y": 408,
+      "width": 700,
+      "height": 22,
+      "text": "今天开始搭博客了。选 vuepress 是因为……（省略 200 字）",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "今天开始搭博客了。选 vuepress 是因为……（省略 200 字）"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_0_#vuepress",
+      "x": 450,
+      "y": 440,
+      "width": 100,
+      "height": 18,
+      "text": "#vuepress",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#vuepress"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_0_#design",
+      "x": 530,
+      "y": 440,
+      "width": 100,
+      "height": 18,
+      "text": "#design",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#design"
+    },
+    {
+      "type": "text",
+      "id": "post_read_0",
+      "x": 1050,
+      "y": 440,
+      "width": 100,
+      "height": 18,
+      "text": "· 6 min read",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "originalText": "· 6 min read"
+    },
+    {
+      "type": "line",
+      "id": "post_sep_0",
+      "x": 360,
+      "y": 475,
+      "width": 790,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          790,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "text",
+      "id": "post_date_1",
+      "x": 360,
+      "y": 490,
+      "width": 80,
+      "height": 36,
+      "text": "Jun 02",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "Jun 02"
+    },
+    {
+      "type": "text",
+      "id": "post_title_1",
+      "x": 450,
+      "y": 485,
+      "width": 700,
+      "height": 28,
+      "text": "在 N5105 NAS 上跑 CosyVoice 的那些坑",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "在 N5105 NAS 上跑 CosyVoice 的那些坑"
+    },
+    {
+      "type": "text",
+      "id": "post_excerpt_1",
+      "x": 450,
+      "y": 518,
+      "width": 700,
+      "height": 22,
+      "text": "没有 GPU，8G 内存，纯 CPU 推理 CosyVoice 2 是怎样的体验……",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "没有 GPU，8G 内存，纯 CPU 推理 CosyVoice 2 是怎样的体验……"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_1_#mlops",
+      "x": 450,
+      "y": 550,
+      "width": 100,
+      "height": 18,
+      "text": "#mlops",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#mlops"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_1_#tts",
+      "x": 530,
+      "y": 550,
+      "width": 100,
+      "height": 18,
+      "text": "#tts",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#tts"
+    },
+    {
+      "type": "text",
+      "id": "post_read_1",
+      "x": 1050,
+      "y": 550,
+      "width": 100,
+      "height": 18,
+      "text": "· 12 min read",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "originalText": "· 12 min read"
+    },
+    {
+      "type": "line",
+      "id": "post_sep_1",
+      "x": 360,
+      "y": 585,
+      "width": 790,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          790,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "text",
+      "id": "post_date_2",
+      "x": 360,
+      "y": 600,
+      "width": 80,
+      "height": 36,
+      "text": "May 28",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "May 28"
+    },
+    {
+      "type": "text",
+      "id": "post_title_2",
+      "x": 450,
+      "y": 595,
+      "width": 700,
+      "height": 28,
+      "text": "Chrome 扩展调用 Replicate / HF API 实战",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "Chrome 扩展调用 Replicate / HF API 实战"
+    },
+    {
+      "type": "text",
+      "id": "post_excerpt_2",
+      "x": 450,
+      "y": 628,
+      "width": 700,
+      "height": 22,
+      "text": "Replicate 2024+ 接口变了，不再支持 model 字段……",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "Replicate 2024+ 接口变了，不再支持 model 字段……"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_2_#chrome",
+      "x": 450,
+      "y": 660,
+      "width": 100,
+      "height": 18,
+      "text": "#chrome",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#chrome"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_2_#ai",
+      "x": 530,
+      "y": 660,
+      "width": 100,
+      "height": 18,
+      "text": "#ai",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#ai"
+    },
+    {
+      "type": "text",
+      "id": "post_read_2",
+      "x": 1050,
+      "y": 660,
+      "width": 100,
+      "height": 18,
+      "text": "· 8 min read",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "originalText": "· 8 min read"
+    },
+    {
+      "type": "line",
+      "id": "post_sep_2",
+      "x": 360,
+      "y": 695,
+      "width": 790,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          790,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "text",
+      "id": "post_date_3",
+      "x": 360,
+      "y": 710,
+      "width": 80,
+      "height": 36,
+      "text": "May 20",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "May 20"
+    },
+    {
+      "type": "text",
+      "id": "post_title_3",
+      "x": 450,
+      "y": 705,
+      "width": 700,
+      "height": 28,
+      "text": "南怀瑾 TTS 项目总结",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "南怀瑾 TTS 项目总结"
+    },
+    {
+      "type": "text",
+      "id": "post_excerpt_3",
+      "x": 450,
+      "y": 738,
+      "width": 700,
+      "height": 22,
+      "text": "用 RAG + CosyVoice 复刻先生讲《论语》的感觉……",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "用 RAG + CosyVoice 复刻先生讲《论语》的感觉……"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_3_#tts",
+      "x": 450,
+      "y": 770,
+      "width": 100,
+      "height": 18,
+      "text": "#tts",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#tts"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_3_#rag",
+      "x": 530,
+      "y": 770,
+      "width": 100,
+      "height": 18,
+      "text": "#rag",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#rag"
+    },
+    {
+      "type": "text",
+      "id": "post_read_3",
+      "x": 1050,
+      "y": 770,
+      "width": 100,
+      "height": 18,
+      "text": "· 15 min read",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "originalText": "· 15 min read"
+    },
+    {
+      "type": "line",
+      "id": "post_sep_3",
+      "x": 360,
+      "y": 805,
+      "width": 790,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          790,
+          0
+        ]
+      ],
+      "strokeColor": "#e9ecef",
+      "strokeWidth": 1,
+      "roughness": 0
+    },
+    {
+      "type": "text",
+      "id": "post_date_4",
+      "x": 360,
+      "y": 820,
+      "width": 80,
+      "height": 36,
+      "text": "May 14",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "May 14"
+    },
+    {
+      "type": "text",
+      "id": "post_title_4",
+      "x": 450,
+      "y": 815,
+      "width": 700,
+      "height": 28,
+      "text": "macOS 装 Hermes Agent 踩坑",
+      "fontSize": 22,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "macOS 装 Hermes Agent 踩坑"
+    },
+    {
+      "type": "text",
+      "id": "post_excerpt_4",
+      "x": 450,
+      "y": 848,
+      "width": 700,
+      "height": 22,
+      "text": "凭据、skill 安装、shell 怪癖……",
+      "fontSize": 15,
+      "fontFamily": 1,
+      "strokeColor": "#868e96",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "凭据、skill 安装、shell 怪癖……"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_4_#tools",
+      "x": 450,
+      "y": 880,
+      "width": 100,
+      "height": 18,
+      "text": "#tools",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#tools"
+    },
+    {
+      "type": "text",
+      "id": "post_tag_4_#hermes",
+      "x": 530,
+      "y": 880,
+      "width": 100,
+      "height": 18,
+      "text": "#hermes",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#495057",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "#hermes"
+    },
+    {
+      "type": "text",
+      "id": "post_read_4",
+      "x": 1050,
+      "y": 880,
+      "width": 100,
+      "height": 18,
+      "text": "· 5 min read",
+      "fontSize": 13,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "originalText": "· 5 min read"
+    },
+    {
+      "type": "rectangle",
+      "id": "page_prev",
+      "x": 360,
+      "y": 980,
+      "width": 90,
+      "height": 40,
+      "roundness": {
+        "type": 3
+      },
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "page_prev_text",
+      "x": 365,
+      "y": 985,
+      "width": 80,
+      "height": 30,
+      "text": "← prev",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "← prev"
+    },
+    {
+      "type": "text",
+      "id": "page_n_0",
+      "x": 470,
+      "y": 985,
+      "width": 30,
+      "height": 30,
+      "text": "1",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "1"
+    },
+    {
+      "type": "text",
+      "id": "page_n_1",
+      "x": 510,
+      "y": 985,
+      "width": 30,
+      "height": 30,
+      "text": "2",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "2"
+    },
+    {
+      "type": "text",
+      "id": "page_n_2",
+      "x": 550,
+      "y": 985,
+      "width": 30,
+      "height": 30,
+      "text": "3",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "3"
+    },
+    {
+      "type": "text",
+      "id": "page_n_3",
+      "x": 590,
+      "y": 985,
+      "width": 30,
+      "height": 30,
+      "text": "...",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "..."
+    },
+    {
+      "type": "text",
+      "id": "page_n_4",
+      "x": 630,
+      "y": 985,
+      "width": 30,
+      "height": 30,
+      "text": "12",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "12"
+    },
+    {
+      "type": "rectangle",
+      "id": "page_next",
+      "x": 1060,
+      "y": 980,
+      "width": 90,
+      "height": 40,
+      "roundness": {
+        "type": 3
+      },
+      "strokeColor": "#1e1e1e",
+      "strokeWidth": 2,
+      "roughness": 2
+    },
+    {
+      "type": "text",
+      "id": "page_next_text",
+      "x": 1065,
+      "y": 985,
+      "width": 80,
+      "height": 30,
+      "text": "next →",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "strokeColor": "#1e1e1e",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "originalText": "next →"
+    },
+    {
+      "type": "text",
+      "id": "anno_viewport",
+      "x": 60,
+      "y": 1060,
+      "width": 400,
+      "height": 20,
+      "text": "── 02 · blog list  ·  viewport 1440×900  ·  两栏布局: 侧栏筛选 + 列表",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "strokeColor": "#adb5bd",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "originalText": "── 02 · blog list  ·  viewport 1440×900  ·  两栏布局: 侧栏筛选 + 列表"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}
