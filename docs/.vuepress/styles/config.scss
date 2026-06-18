@@ -1,0 +1,56 @@
+// ============================================================
+// Sketch Blog · 设计变量
+// 覆盖 VuePress 2 defaultTheme 的设计 token
+// ============================================================
+
+// ---- 色板 ----
+$nb-ink:        #1e1e1e;   // 主墨色
+$nb-ink-soft:   #495057;   // 次要墨色
+$nb-ink-mute:   #868e96;   // 弱化墨色
+$nb-ink-faint:  #adb5bd;   // 极淡墨色
+$nb-line:       #e9ecef;   // 浅灰线条
+$nb-line-soft:  #f1f3f5;   // 极浅线条
+$nb-paper:      #fdfaf3;   // 纸张色（米白偏暖）
+$nb-paper-deep: #f5efe2;   // 纸张阴影
+$nb-accent:     #c14a3a;   // 朱砂红（印章红）
+$nb-accent-2:   #3d6a4d;   // 苔藓绿
+$nb-warn:       #d97706;   // 警示橙
+
+// ---- 字体 ----
+$nb-font-hand:    'Ma Shan Zheng', 'ZCOOL KuaiLe', 'Noto Sans SC', cursive;
+$nb-font-cute:    'ZCOOL KuaiLe', 'Ma Shan Zheng', 'Noto Sans SC', sans-serif;
+$nb-font-body:    'Noto Sans SC', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+$nb-font-mono:    'Caveat', 'Fira Code', 'Source Code Pro', Consolas, monospace;
+$nb-font-en:      'Caveat', 'Caveat Brush', cursive;
+
+// ---- 边距 / 尺寸 ----
+$nb-max-w:        1200px;
+$nb-radius-sm:    4px;
+$nb-radius:       8px;
+$nb-radius-lg:    14px;
+$nb-shadow:       0 2px 8px rgba(0, 0, 0, 0.04);
+$nb-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.08);
+
+// ---- 动画 ----
+$nb-ease:         cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+// 覆盖 VuePress 2 defaultTheme 变量
+$color-brand:          $nb-accent;
+$color-brand-light:    lighten($nb-accent, 10%);
+$color-brand-dark:     darken($nb-accent, 8%);
+$text-color:           $nb-ink;
+$bg-color:             $nb-paper;
+$bg-color-secondary:   $nb-paper-deep;
+$bg-color-soft:        $nb-paper-deep;
+
+// 边框
+$border-color:         $nb-line;
+$border-radius:        $nb-radius;
+
+// 字体
+$font-family:          $nb-font-body;
+$font-family-heading:  $nb-font-hand;
+
+// 间距
+$content-width:        $nb-max-w;
+$navbar-height:        60px;
