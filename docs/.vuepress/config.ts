@@ -2,6 +2,9 @@ import { defineUserConfig } from 'vuepress'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
+  // GitHub Pages 部署在 /sketch-blog/ 子路径
+  base: '/sketch-blog/',
+
   bundler: webpackBundler({
     // 让 webpack 处理 sass
     postcss: {},

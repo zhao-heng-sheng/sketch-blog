@@ -1,7 +1,7 @@
 node_modules/
-.vuepress/dist/
-.vuepress/.cache/
-.vuepress/.temp/
+docs/.vuepress/dist/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
 .DS_Store
 *.log
 # 字体不进仓库（用 CDN）

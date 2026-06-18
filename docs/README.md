@@ -1,16 +1,14 @@
 ---
 home: true
-hero:
-  name: 赵恒盛
-  text: 一个写代码的人
-  tagline: 偶尔也写点别的。
-  actions:
-    - text: 翻翻随笔
-      link: /blog/
-      type: primary
-    - text: 关于我
-      link: /about/
-      type: secondary
+heroText: 一个写代码的人
+heroImage: /favicon.svg
+actions:
+  - text: 翻翻随笔 →
+    link: /blog/
+    type: primary
+  - text: 关于我
+    link: /about/
+    type: secondary
 features:
   - title: 📝 随笔
     details: 踩过的坑、想明白的事、读到的句子。不定期更新。

@@ -1,0 +1,2 @@
+# 占位文件：vuepress 构建需要 public/ 目录存在
+# 字体走 jsdelivr CDN，不在这里
